@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition to His Maiesty; of the three revolting counties in the west, Wilts, Somerset, and Devon. With the cause and reason, and how they intended to spend their last blood in His Majesties cause. Also their resolution to defend themselves with their swords, except His Majesty returns to his Parliament at VVestminster. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90615</idno><idno type="EEBO-CITATION">99860975</idno>
+  <idno type="VID">113102</idno>
+  <idno type="EEBO-PROQUEST">2240860276</idno>
+  
+            <idno type="STC">Wing P1855</idno>
+            <idno type="STC">Thomason E293_28</idno>
+            <idno type="STC">ESTC R200170</idno>
+            <idno type="PROQUEST">99860975</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860975e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113102)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E293[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition to His Maiesty; of the three revolting counties in the west, Wilts, Somerset, and Devon. With the cause and reason, and how they intended to spend their last blood in His Majesties cause. Also their resolution to defend themselves with their swords, except His Majesty returns to his Parliament at VVestminster. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy "July 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Wiltshire (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Devon (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Somerset (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113102:1"/>
+            <p>A PETITION TO HIS MAIESTY; Of the three revolting Counties in the West, <hi>Wilts, Somerset,</hi> and <hi>Devon.</hi>
+            </p>
+            <p>WITH The cause and reason, and how they intended to spend their last blood in His Majesties cause.</p>
+            <p>ALSO Their resolution to defend themselves with their swords, except His Majesty returnes to his Parlia<g ref="char:EOLhyphen"/>ment at <hi>VVestminster.</hi>
+            </p>
+            <figure>
+               <figDesc>two hands shaking in front of a heart</figDesc>
+            </figure>
+            <p>Published by Authority.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. H. 1645.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:113102:2"/>
+            <pb n="1" facs="tcp:113102:2"/>
+            <head>To the KINGS most excellent MAIESTIE.</head>
+            <argument>
+               <p>The humble Petition of the Knights, Gentlemen, Free<g ref="char:EOLhyphen"/>holders, and other the Inhabitants of the Counties of Wilts, Somerset and Devon.</p>
+            </argument>
+            <opener>
+               <salute>May it please your Maiesty:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E your long oppressed and overpressed subiects in all humble and loyall ma<g ref="char:EOLhyphen"/>ner shew and declare to your Maie<g ref="char:EOLhyphen"/>stie, That whereas we the Knights, Gentlemen, Freeholders, and other the Inhabitants of the abovesaid Counties, have very long and sorely borne and sustai<g ref="char:EOLhyphen"/>ned the heavie and intolerable burthen and pressur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Civill and unnaturall Wars, and been over<g ref="char:EOLhyphen"/>prest with the inutterable miseries and calamities thereby ensuing, and resolved to go forwards and per<g ref="char:EOLhyphen"/>sist, though to the utter losse and ruine of our estates, lives and fortunes, without wearinesse, notwithstan<g ref="char:EOLhyphen"/>ding any matter or thing that was or could be obiect<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the contrary on the adverse party: never once beleeving but that you were firmly grounded and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<g ref="char:EOLhyphen"/>led in the true Protestant Religion, according to your sundry Protestations to the whole Kingdome, which
+<pb n="2" facs="tcp:113102:3"/> we fully and verily beleeved had beene for to main<g ref="char:EOLhyphen"/>taine and uphold the true Reformed Protestant Reli<g ref="char:EOLhyphen"/>gion, though to the hazard of your Posterity and for<g ref="char:EOLhyphen"/>tunes, without any mentall reservation, equivocation, or any other by or sinister end whatsoever: We ten<g ref="char:EOLhyphen"/>dring your prosperity and welfare, and the peace of your Kingdomes from the bottome of our hearts, nei<g ref="char:EOLhyphen"/>ther regarding wives, children, goods, or lives, were re<g ref="char:EOLhyphen"/>solved to stand fast to you and your posterity, to the last drop of our blood: But now after serious debate at d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vers and severall meetings had among us of la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and deeply and seriously weighing the miscariage of the great affaires of this bleeding Kingdome, which so neerly concernes the Church of God, and the deepe and lamentable grones of your poore oppressed and murdered subiects in every corner and angle of this your Kingdome: We the Knights, Gentlemen, Free<g ref="char:EOLhyphen"/>holders, and Inhabitants of the aforesaid Counties, being credibly informed, to our hearts griefe, of your late and fearful revolt from your Religion to Po<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y; your daily correspondence w<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pope of Rome; your countenan<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and upholding of the bloody Irish re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>els, who <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inhumanely with bloody hands and re<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>eless<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearts shed the blood of above a hundred thousand Protestants, yet no men so great and high in your Maiesties favour, as these devouring Wolves; your absolute promise to your queene for maintenance of Popery, under your owne hand, now extant to be seen; and for the introducing of Popery into this kingdom; your receiving and asking counsell and advice of the most knowne <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esuited Papist in this Kingdome; you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:113102:3"/> former underhand releasing of many knowne and no<g ref="char:EOLhyphen"/>torious Iesuits out of prison, who by the known Laws of the Land were to suffer death; your giving tolera<g ref="char:EOLhyphen"/>tion for the profanation of the Lords Day, with your licensing and permitting of divers horrid and unchri<g ref="char:EOLhyphen"/>stian cruelties to be inflicted in a most barbarous ma<g ref="char:EOLhyphen"/>ner, upon many honest, Christian, and religious sub<g ref="char:EOLhyphen"/>iects of yours, both men and women, to the unspea<g ref="char:EOLhyphen"/>kable griefe and astonishment of the beholders; your taking counsell with <hi>Bristoll, Cottington,</hi> and <hi>Digby,</hi> and at this present no place but <hi>Ragnol</hi> Castle is your seat, where is the greatest confluence of Papists in all those parts, nay in the whole Kingdome: and if such like fellowes as these are fit supporters to the Prote<g ref="char:EOLhyphen"/>stant Religion, let the world iudge.</p>
+            <p>The affaires of this bleeding Kingdome being such, and the horrid oppressions and unheard of outrages committed against your poor subiects, being so great▪ and unpa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lleld: We therefore here testifie and de<g ref="char:EOLhyphen"/>clare to your Maiestie and the world, that we are not any longer able to beare this intolerable bondage and slavers: We have therefore resolved, and do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ani<g ref="char:EOLhyphen"/>mously resolve to shake off this y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, which hath lien and yet lies so heavy on us, for that you have made a cessation of Armes with the barbarous and bloody Irish Rebels, and stiled them your good Catholicke subiects, notwithstanding they have cruelly butchered and massacred above a hundred thousand of as good Protestants as ever any Prince had in this world; your correspondency with the Pope, subscribed in your se<g ref="char:EOLhyphen"/>verall Letters to him with your owne hand; your pro<g ref="char:EOLhyphen"/>mise to your queene subscri<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with your own hand,
+<pb n="4" facs="tcp:113102:4"/> as we are <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uly informed, to bring in Popery as afore<g ref="char:EOLhyphen"/>said. Nay the body of your Councell is from the Romish and Spanish faction, witnesse <hi>Bristol, Cotting<g ref="char:EOLhyphen"/>ton, Digby</hi> &amp;c. and even iust now who did your Ma<g ref="char:EOLhyphen"/>iesty goe to for counsell, but the archest Iesuited Pa<g ref="char:EOLhyphen"/>pist in all those parts, <hi>Worcester?</hi> Besides your conti<g ref="char:EOLhyphen"/>nuall favouring and fostering of the Iesuites from time to time: and now your hand taken at Nazeby in your Cabinet, extant to be seene, for bringing in of Popery, and have used all wayes and meanes to the uttermost of what hath in you beene to favour pro<g ref="char:EOLhyphen"/>phane pastimes, witnesse the Booke of tolerating of sports, printed by your authority, and commanded to be read in all Churches and Chappels within your Dominions; your aversenesse to comply with your great Councell your Parliament now resident at <hi>West<g ref="char:EOLhyphen"/>minster,</hi> who would to the utmost of their power and strength have established your Throne for ever in peace and happinesse.</p>
+            <p>May it therefore please your Maiestie, the premis<g ref="char:EOLhyphen"/>ses seriously considered, to return at last to your great Councell the Parliament at <hi>Westminster,</hi> where you may by your great repentance and sorrow of heart begge and implore pardon of God for your many and great prevarications, and that God would be pleased to take away your stony heart, and give you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heart of flesh, and to take you once againe into his favour and mercifull protection; that your subiects may have cause to blesse God for you and yours, and that you may end the rest of your daies in peace and happi<g ref="char:EOLhyphen"/>nesse, to his glorie, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e welfare and benefit of this
+<pb n="5" facs="tcp:113102:4"/> poore afflicted and distressed Kingdome, nay of the three Kingpomes now lamentably dilacerate and rent in sunder by our bloody and intestine adversaries.</p>
+            <p>We therefore once againe most humbly and ear<g ref="char:EOLhyphen"/>nestly beseech your Maiestie, That you bee pleased seriously to consider what is laid truly to your charge and to consider Ieriously of the blood of many thou<g ref="char:EOLhyphen"/>sands of your subiects that hath beene spilt on the earth as water, and God give you an understanding and prudent heart, and lead you to your great Coun<g ref="char:EOLhyphen"/>cell aforesaid▪ that these unnaturall and bloodie wars may cease and be extinct, and the voice of ioy and re<g ref="char:EOLhyphen"/>ioycing may once more be heard in the streets of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> that God may have the glorie, and you and your posteritie (that shall succeed you) will be sure to find the comfort inexpressible, and be at last a Father to your people, a good Shepheard to your sheepe; not a Wolfe, a blood-sucking <hi>Nero.</hi> Prove not a Bramble utterly to consume and destroy your selfe, your king<g ref="char:EOLhyphen"/>domes and subiects over whom God hath made you Steward, for the most high God will require their blood at your hands, when hee makes inquisition for blood.</p>
+            <p>But if all that hath beene spoken (out of our zeale to Gods glorie; his peoples good, and our dutie to your Maiestie) will not finde acceptance nor favour, out be sleighted and disregarded, we take God and the whole world to witnesse that we will by our swords quit our selves and our estates free from these bloody Monsters, nor suffer them no longer to harbour and
+<pb n="6" facs="tcp:113102:5"/> lurke among us, to the immi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent h<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ding of our lives and fort<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, nay of what is and should be most deare to all good Christians, our Religion, Lawes, and Liberties: and our prayers shall be night and day that God would open your eyes to see and em<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>race the Truth, and your heart to bee truly inclined to helpe to close up the bleeding and gaping <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounds of our gasping native Countrie, and to heale the great breaches thereof, for it shaketh.</p>
+            <q>And we with thousands of your faithfull and l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ya<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Subjects shall ever pray for your Majesties l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g and prosperous reigne <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver us.</q>
+            <p>We make bold with your Maiestie to strike tw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce on a string, because your Maiestie hath a short me<g ref="char:EOLhyphen"/>morie, remember your Protestation<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Declar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
